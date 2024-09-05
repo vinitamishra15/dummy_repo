@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Dummy_client_file</name>
+        <order/>
+        <script><![CDATA[//This is a dummy client script created.]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 14:40:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>682d9d6b475cd2903c241a2f316d435a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dummy_client_file</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DevOps_import_dummy" source="a50d91a3475cd2903c241a2f316d43e2">a50d91a3475cd2903c241a2f316d43e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DevOps_import_dummy">a50d91a3475cd2903c241a2f316d43e2</sys_scope>
+        <sys_update_name>sys_script_client_682d9d6b475cd2903c241a2f316d435a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 14:40:38</sys_updated_on>
+        <table/>
+        <type/>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
